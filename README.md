@@ -1,6 +1,9 @@
-# Gidro-OS
+# test-OS
 
-![](assets/bg.webp)
+tinkering with increased granular control of Ublue-like images
+
+------
+(from original github)
 
 My customized image, based on [Fedora Silverblue](https://fedoraproject.org/atomic-desktops/silverblue/).
 
